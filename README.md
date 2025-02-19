@@ -26,4 +26,4 @@ El programa ***ShipTracker*** el vaig desenvolupar per a ajudar una ong a facili
 Clica a la següent imatge per anar al repositori
 <br />
 <br />
-<a href="https://github.com/jordiferr/Qt/ShipTracker" target="_blank"><img src="./ShipTracker/pictures/principal.png" width="45%"></a>
+<a href="https://github.com/jordiferr/Qt/tree/main/ShipTracker" target="_blank"><img src="./ShipTracker/pictures/principal.png" width="45%"></a>
