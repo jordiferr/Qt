@@ -18,3 +18,10 @@ Aquest programa permet comparar dos fitxers utilitzant la suma de verificació (
 - Comparació de fitxers mitjançant hash (MD5, SHA-1, SHA-256, etc.).
 - Indicació visual (verd/vermell) de si els fitxers són iguals o diferents.
 - Detecció de col·lisions de hash amb indicació visual (verd/vermell).
+
+## <em>ShipTracker</em>
+
+El programa ***ShipTracker*** el vaig desenvolupar per a ajudar una ong a facilitar la feina interna que realitzaven reduïnt-ne el temps de tractament de dades.
+<br />
+Clica a la següent imatge per anar al repositori
+<a href="https://github.com/jordiferr/Qt/ShipTracker" target="_blank"><img src="./ShipTracker/pictures/principal.png" width="25%"></a>
