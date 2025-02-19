@@ -24,4 +24,6 @@ Aquest programa permet comparar dos fitxers utilitzant la suma de verificació (
 El programa ***ShipTracker*** el vaig desenvolupar per a ajudar una ong a facilitar la feina interna que realitzaven reduïnt-ne el temps de tractament de dades.
 <br />
 Clica a la següent imatge per anar al repositori
-<a href="https://github.com/jordiferr/Qt/ShipTracker" target="_blank"><img src="./ShipTracker/pictures/principal.png" width="25%"></a>
+<br />
+<br />
+<a href="https://github.com/jordiferr/Qt/ShipTracker" target="_blank"><img src="./ShipTracker/pictures/principal.png" width="45%"></a>
